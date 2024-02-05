@@ -27,7 +27,7 @@
     padding: 0px;
 }
 body{
-    background-color: var(--cor00);
+    background-color: var(--corbase);
     font-family: var(--font-padrao);
 }
 
